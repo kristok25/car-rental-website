@@ -1,0 +1,106 @@
+{
+  "english": "Anglisht",
+  "albanian": "Shqip",
+  "currentLanguage": "Gjuha aktuale",
+  "nav": {
+    "home": "Shtëpia",
+    "about": "Rreth Nesh",
+    "cars": "Makinat",
+    "contact": "Kontakt"
+  },
+  "home": {
+    "tagline": "Marrje me Qira Makinash Premium",
+    "title": "Vozitni me Stil, Arrijeni me Rehati",
+    "subtitle": "Përjetoni luksin dhe besueshmërinë me flotën tonë premium. Rezervoni makinën tuaj të përsosur në sekonda përmes WhatsApp.",
+    "browseCars": "Shiko Makinat",
+    "bookWhatsApp": "Rezervo përmes WhatsApp",
+    "whatsappMessage": "Përshëndetje! Dëshiroj të rezervoj një makinë me qira.",
+    "features": {
+      "premiumFleet": {
+        "title": "Flotë Premium",
+        "desc": "Sedane luksoze, SUV dhe makina sportive për çdo rast."
+      },
+      "easyBooking": {
+        "title": "Rezervim i Lehtë",
+        "desc": "Rezervoni makinën tuaj në minuta përmes WhatsApp."
+      },
+      "support": {
+        "title": "Mbështetje 24/7",
+        "desc": "Jemi këtu sa herë që keni nevojë për ndihmë."
+      }
+    }
+  },
+  "about": {
+    "tagline": "Historia Jonë",
+    "title": "Ekselencë në Çdo Udhëtim",
+    "paragraph1": "CarRentalAgo u themelua me një mision të thjeshtë: të ofrojë përvojë premium të marrjes me qira makinash që kombinojnë luksin, besueshmërinë dhe shërbimin pa probleme. Ne besojmë se çdo udhëtim meriton një automjet që përputhet me standardet tuaja.",
+    "paragraph2": "Flota jonë është kujdesur me kujdes për të përfshirë sedanet, SUV-t dhe makinat sportive më të mira. Pavarësisht nëse keni nevojë për një makinë për biznes, një rast të veçantë, ose një pushim fundjavë, ne sigurojmë që udhëtimi juaj të fillojë dhe të përfundojë me rehati.",
+    "paragraph3": "Ne kemi integruar WhatsApp në procesin tonë të rezervimit që të mund të rezervoni makinën tuaj shpejt dhe lehtë—pa forma të komplikuara, vetëm një bisedë e thjeshtë. Ekipi ynë është gjithmonë gati për t'ju ndihmuar."
+  },
+  "cars": {
+    "tagline": "Flota Jonë",
+    "title": "Automjete Premium për Çdo Rast",
+    "bookWhatsApp": "Rezervo përmes WhatsApp",
+    "from": "Nga",
+    "seats": "Vende",
+    "transmission": "Transmisioni",
+    "fuel": "Karburanti",
+    "year": "Viti",
+    "transmissionValues": {
+      "automatic": "Automatik",
+      "manual": "Manual"
+    },
+    "fuelValues": {
+      "petrol": "Benzinë",
+      "diesel": "Naftë",
+      "electric": "Elektrik",
+      "hybrid": "Hibrid"
+    },
+    "categories": {
+      "luxurySedan": "Sedan Luksoz",
+      "executiveSedan": "Sedan Ekzekutiv",
+      "premiumSUV": "SUV Premium",
+      "sportsSUV": "SUV Sportiv",
+      "luxurySUV": "SUV Luksoz",
+      "electricLuxury": "Luks Elektrik"
+    },
+    "bookingMessage": "Përshëndetje! Dëshiroj të rezervoj {{carName}}."
+  },
+  "contact": {
+    "tagline": "Na Kontaktoni",
+    "title": "Do të Na Kënaqte të Dëgjonim Prej Jush",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "desc": "Mënyra më e shpejtë për të na kontaktuar",
+      "button": "Bisedo Tani"
+    },
+    "phone": {
+      "title": "Telefon",
+      "button": "Na Telefononi"
+    },
+    "email": {
+      "title": "Email",
+      "button": "Dërgo Email"
+    },
+    "message": "Përshëndetje! Kam një pyetje për CarRentalAgo.",
+    "location": {
+      "title": "Na Vizitoni",
+      "address": "Rruga Kryesore 123, Tiranë, Shqipëri",
+      "hours": "E Hënë-E Shtunë: 9:00 - 18:00",
+      "button": "Merrni Drejtimin",
+      "addressLabel": "Adresa",
+      "hoursLabel": "Orari i Hapjes"
+    }
+  },
+  "location": {
+    "title": "Lokacioni Ynë",
+    "subtitle": "Vizitoni zyrën tonë për të marrë makinën tuaj me qira",
+    "address": "Rruga Kryesore 123, Tiranë, Shqipëri",
+    "hours": "E Hënë-E Shtunë: 9:00 - 18:00",
+    "button": "Merrni Drejtimin"
+  },
+  "footer": {
+    "copyright": "© {{year}} CarRentalAgo. Përvojë premium të marrjes me qira makinash.",
+    "instagram": "Na ndiqni në Instagram"
+  }
+}

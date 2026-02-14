@@ -1,0 +1,106 @@
+{
+  "english": "English",
+  "albanian": "Albanian",
+  "currentLanguage": "Current language",
+  "nav": {
+    "home": "Home",
+    "about": "About",
+    "cars": "Cars",
+    "contact": "Contact"
+  },
+  "home": {
+    "tagline": "Premium Car Rental",
+    "title": "Drive in Style, Arrive in Comfort",
+    "subtitle": "Experience luxury and reliability with our premium fleet. Book your perfect car in seconds via WhatsApp.",
+    "browseCars": "Browse Cars",
+    "bookWhatsApp": "Book via WhatsApp",
+    "whatsappMessage": "Hello! I would like to book a car rental.",
+    "features": {
+      "premiumFleet": {
+        "title": "Premium Fleet",
+        "desc": "Luxury sedans, SUVs, and sports cars for every occasion."
+      },
+      "easyBooking": {
+        "title": "Easy Booking",
+        "desc": "Reserve your car in minutes through WhatsApp."
+      },
+      "support": {
+        "title": "24/7 Support",
+        "desc": "We are here whenever you need assistance."
+      }
+    }
+  },
+  "about": {
+    "tagline": "Our Story",
+    "title": "Excellence in Every Journey",
+    "paragraph1": "CarRentalAgo was founded with a simple mission: to provide premium car rental experiences that combine luxury, reliability, and seamless service. We believe that every trip deserves a vehicle that matches your standards.",
+    "paragraph2": "Our fleet is carefully curated to include the finest sedans, SUVs, and sports cars. Whether you need a car for business, a special occasion, or a weekend getaway, we ensure your journey begins and ends in comfort.",
+    "paragraph3": "We've integrated WhatsApp into our booking process so you can reserve your car quickly and easily—no complicated forms, just a simple conversation. Our team is always ready to assist you."
+  },
+  "cars": {
+    "tagline": "Our Fleet",
+    "title": "Premium Vehicles for Every Occasion",
+    "bookWhatsApp": "Book via WhatsApp",
+    "from": "From",
+    "seats": "Seats",
+    "transmission": "Transmission",
+    "fuel": "Fuel",
+    "year": "Year",
+    "transmissionValues": {
+      "automatic": "Automatic",
+      "manual": "Manual"
+    },
+    "fuelValues": {
+      "petrol": "Petrol",
+      "diesel": "Diesel",
+      "electric": "Electric",
+      "hybrid": "Hybrid"
+    },
+    "categories": {
+      "luxurySedan": "Luxury Sedan",
+      "executiveSedan": "Executive Sedan",
+      "premiumSUV": "Premium SUV",
+      "sportsSUV": "Sports SUV",
+      "luxurySUV": "Luxury SUV",
+      "electricLuxury": "Electric Luxury"
+    },
+    "bookingMessage": "Hi! I would like to book the {{carName}}."
+  },
+  "contact": {
+    "tagline": "Get in Touch",
+    "title": "We'd Love to Hear From You",
+    "whatsapp": {
+      "title": "WhatsApp",
+      "desc": "Fastest way to reach us",
+      "button": "Chat Now"
+    },
+    "phone": {
+      "title": "Phone",
+      "button": "Call Us"
+    },
+    "email": {
+      "title": "Email",
+      "button": "Send Email"
+    },
+    "message": "Hello! I have a question about CarRentalAgo.",
+    "location": {
+      "title": "Visit Us",
+      "address": "123 Main Street, Tirana, Albania",
+      "hours": "Mon-Sat: 9:00 AM - 6:00 PM",
+      "button": "Get Directions",
+      "addressLabel": "Address",
+      "hoursLabel": "Opening Hours"
+    }
+  },
+  "location": {
+    "title": "Our Location",
+    "subtitle": "Visit our office to pick up your rental car",
+    "address": "123 Main Street, Tirana, Albania",
+    "hours": "Mon-Sat: 9:00 AM - 6:00 PM",
+    "button": "Get Directions"
+  },
+  "footer": {
+    "copyright": "© {{year}} CarRentalAgo. Premium car rental experiences.",
+    "instagram": "Follow us on Instagram"
+  }
+}
