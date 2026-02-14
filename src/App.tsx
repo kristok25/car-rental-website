@@ -2,6 +2,7 @@ import { Box } from '@mui/material';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import CssBaseline from '@mui/material/CssBaseline';
+import { SpeedInsights } from '@vercel/speed-insights/react';
 import Navbar from './components/Navbar';
 import Footer from './components/Footer';
 import Home from './pages/Home';
@@ -42,6 +43,7 @@ function App() {
           </Box>
           <Footer />
         </Box>
+        <SpeedInsights />
       </BrowserRouter>
     </ThemeProvider>
   );
