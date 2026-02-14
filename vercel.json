@@ -2,11 +2,7 @@
   "buildCommand": "npm run build",
   "outputDirectory": "dist",
   "framework": "vite",
-  "cleanUrls": true,
-  "trailingSlash": false,
-  "routes": [
-    { "src": "^/assets/.*", "dest": "/assets/$1" },
-    { "src": "^/.*\\..*", "dest": "/$1" },
-    { "src": ".*", "dest": "/index.html" }
+  "rewrites": [
+    { "source": "/(?!assets|favicon|vite\\.svg)", "destination": "/index.html" }
   ]
 }
